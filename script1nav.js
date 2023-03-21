@@ -6,4 +6,7 @@ const body = document.querySelector("body"),
       togglehome.addEventListener("click", () =>{
         navbartoside.classList.toggle("close");
       });
-      
+
+      searchbtn.addEventList.toggle("click", () =>{
+        navbartoside.classList.remove("close");
+      });

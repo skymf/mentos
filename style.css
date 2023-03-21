@@ -127,7 +127,6 @@ header .image-text .header-text{
 
 .header-text.desc{
     margin-top: -2px
-
 }
 
 .navbartoside header .toggle{
@@ -156,6 +155,9 @@ header .image-text .header-text{
     border-radius: 10px;
 }
 
+.navbartoside .menu{
+    margin-top: 35px;
+}
 .searchbox input{
     height: 100%;
     width: 100%;
