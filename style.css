@@ -152,16 +152,17 @@ header .image-text .header-text{
 .navbartoside .searchbox {
     background: var(--primary-color-light);
     border-radius: 10px;
-
 }
 
 .searchbox input{
     height: 100%;
     width: 100%;
+    font-size: 14px;
     outline: none;
     border: none;
     border-radius: 10px;
     background: var(--primary-color-light);
+    transition: trans
 }
 .navbartoside li a{
     height: 100%;
